@@ -65,31 +65,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/s.a.t.y.a.m_84">
-<img src="https://cdn-icons-png.flaticon.com/128/4138/4138124.png" width="70" alt="Instagram"/>
-</a>
+
 &nbsp;&nbsp;&nbsp;
-<a href="https://x.com/SatyamUmrao_">
-<img src="https://images.vexels.com/media/users/3/137419/isolated/preview/b1a3fab214230557053ed1c4bf17b46c-twitter-icon-logo.png" width="68" alt="Twitter"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/satyam-umrao">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" width="65" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://pin.it/49B6UBltq">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pinterest-round-color-icon.png" width="65" alt="Pinterest"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.quora.com/profile/Satyam-Umrao-4">
-<img src="https://cdn-icons-png.flaticon.com/512/185/185976.png" width="65" alt="Quora"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://wa.me/+919794069148">
+<a href="https://wa.me/+919369103171">
 <img src="https://static.vecteezy.com/system/resources/previews/042/127/115/non_2x/round-whatsapp-logo-with-long-shadow-on-a-transparent-background-free-png.png" width="70" alt="WhatsApp"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:satyamumrao11225@gmail.com">
+<a href="mailto:umraopranjul286@gmail.com">
 <img src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" width="65" alt="Gmail"/>
 </a>
 </p>
